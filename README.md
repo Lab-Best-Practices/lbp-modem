@@ -1,6 +1,8 @@
 # lbp-modem
 
-## Đăng ký mạng ở Việt nam, qua các bước:
+Update 05052022
+
+## Đăng ký mạng ở Việt nam, qua các bước ✅
 
 1. Tìm nhà cung cấp
 
@@ -26,7 +28,7 @@ Sau khi cấu hình xong thiết bị, nhân viên hỗ trợ sẽ giúp bạn k
 
 DONE.
 
-## Tự cài đặt, cấu hình modem
+## Tự cài đặt, cấu hình modem ✅
 
 Bạn có thể tự cấu hình, cài đặt modem trong nhà của bạn. Tuy nhiên, bạn chỉ kiểm soát được 5/10 phần còn 5 phần còn lại phụ thuộc vào nhà cung cấp.
 
